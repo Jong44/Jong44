@@ -1,47 +1,52 @@
 # Hi, I'm Tanjung 👋
 
-![GitHub followers](https://img.shields.io/github/followers/tanjung?style=social)
-![Languages](https://img.shields.io/github/languages/top/Jong44/stunting_app?style=plastic)
-![Languages](https://img.shields.io/github/languages/top/Jong44/portofolio?style=plastic)
-![Languages](https://img.shields.io/github/languages/top/Jong44/FizzMate?style=plastic)
+![GitHub followers](https://img.shields.io/github/followers/Jong44?style=social)
+![Years coding](https://img.shields.io/badge/3%2B%20years%20coding-181717?style=plastic&logo=github)
+![Piala](https://img.shields.io/badge/3%20piala-181717?style=plastic)
+![Role](https://img.shields.io/badge/Backend%20%C2%B7%20Flutter%20%C2%B7%20Web-f97316?style=plastic)
 
-I'm a passionate Front-End Developer specializing in **Next.js** and **Flutter**. I love building sleek, modern, and highly interactive web and mobile applications. 🚀
+Backend-leaning fullstack from Semarang 🇮🇩 — three years writing APIs, databases, and the occasional Flutter screen. Currently teaching at Bengkel Koding, coordinating the web division at DNCC, and preparing for Apple Developer Academy Indonesia 2026.
 
----
-
-## 🔧 Technologies & Tools
-
-**Languages**: JavaScript, TypeScript, Dart  
-**Web Frameworks**: Next.js, React.js  
-**Mobile Development**: Flutter  
-**State Management**: GetX (Flutter), Redux  
-**Version Control**: Git, GitHub  
-**Databases**: MySQL, Firebase, Supabase  
-**Tools**: VS Code, Postman
+> *"I build, break, and learn."*
 
 ---
 
-## 🌱 I’m currently learning...
+## 🔧 What I work with
 
-- Advanced Flutter patterns
-- TypeScript in React.js projects
-
----
-
-## 📊 GitHub Stats
-
-![Tanjung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jong44&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
-
-## 🌍 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jong44&layout=compact&theme=radical)
+**Languages** — TypeScript, JavaScript, Dart, Python (exploring), SQL  
+**Backend** — Laravel, Node.js + Express.js, Prisma, REST API design, PostgreSQL, MySQL  
+**Mobile** — Flutter, Swift / SwiftUI (basics)  
+**Frontend** — Next.js, React.js, TanStack Query, Shadcn UI, Tauri  
+**Auth & Data** — Supabase, Firebase  
+**Infra & Workflow** — Docker, GitHub Actions, CI/CD, staging vs production discipline  
+**Tools** — VS Code, Postman, Git
 
 ---
 
-## 📫 How to reach me...
+## 🌱 What I'm learning / exploring
 
-- [LinkedIn](https://www.linkedin.com/in/tanjungg)
+- **System design** — sync strategies (incremental vs batch vs streaming), backward compatibility on legacy codebases
+- **Prompt engineering** — anchor persona, safety layer, retry logic, fallback
+- **Better frontend** — that's literally why I'm applying to ADA. UI quality is my next ceiling.
+- **iOS / SwiftUI** — small experiments, looking to ship one to TestFlight soon
 
-Thanks for visiting my profile! 😄
+---
+
+## 🏆 Competing highlights (2024)
+
+- **Juara 2 — UNITY UNY** · TaXi
+- **Juara 3 — Invofest Politeknik Harber Tegal** · One Call App
+- **Juara 3 — Fosti Fest UM Surakarta** · One Call App
+
+---
+
+## 📫 Let's talk
+
+- ✉️ [tanjung.tanjung.1466@gmail.com](mailto:tanjung.tanjung.1466@gmail.com)
+- 💼 [LinkedIn — in/tanjungg](https://linkedin.com/in/tanjungg)
+- 💬 [WhatsApp](https://wa.me/6281215941614)
+- 🐙 [GitHub — @Jong44](https://github.com/Jong44)
+
+---
+
+Thanks for stopping by! 😄
